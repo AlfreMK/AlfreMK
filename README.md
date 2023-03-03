@@ -1,5 +1,8 @@
 # 💫 About Me:
-🌱 I’m currently learning TypeScript<br>👨‍💻 All of my projects are available at [https://github.com/AlfreMK](https://github.com/AlfreMK)<br>📫 How to reach me **alfredo.medina@uc.cl**<br>⚡ My hobbies are Programming & Chess
+🌱 I'm currently studying a Bachelor of Science in Computer Science in Pontificia Universidad Católica, Chile
+<br>💻 I ❤️ frontend development: TypeScript/JavaScript + React
+<br>📫 How to reach me **alfredo.medina@uc.cl**
+<br>🧩 My hobbies are Programming & Chess
 
 
 ## 🌐 Socials:
