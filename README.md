@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I'm currently studying a Bachelor of Science in Computer Science in Pontificia Universidad Católica, Chile
-<br>💻 I ❤️ frontend development: TypeScript/JavaScript + React
+<br>💻 I love frontend development: TypeScript/JavaScript + React
 <br>📫 How to reach me **alfredo.medina@uc.cl**
 <br>🧩 My hobbies are Programming & Chess
 
