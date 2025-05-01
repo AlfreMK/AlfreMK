@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm pursuing a Bachelor of Science in Computer Science at Pontificia Universidad Católica, Chile.
+📚 Bachelor of Science in Computer Science at Pontificia Universidad Católica, Chile.
 <br>🌱 I'm currently developing software for [@thenotcompany](https://github.com/thenotcompany).
 <br>💻 I specialize in frontend development with `TypeScript`/`JavaScript`, working with `React`, `Svelte`, and `Vue`.
 <br>🧩 In my free time, I enjoy programming, playing chess, and solving Rubik's cubes.
